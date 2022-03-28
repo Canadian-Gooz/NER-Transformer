@@ -1,0 +1,1 @@
+A Transformer-based model trained on the ConLL 2003 dataset to predict Named Entities in english text.
